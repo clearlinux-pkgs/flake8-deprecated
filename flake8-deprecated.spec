@@ -4,7 +4,7 @@
 #
 Name     : flake8-deprecated
 Version  : 1.3
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/28/28/d39539c84cfb432d7431255ed16f93125342ced4a137d653b50b621fae36/flake8-deprecated-1.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/28/28/d39539c84cfb432d7431255ed16f93125342ced4a137d653b50b621fae36/flake8-deprecated-1.3.tar.gz
 Summary  : Warns about deprecated method calls.
